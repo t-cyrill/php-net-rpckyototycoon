@@ -5,12 +5,14 @@ RPCKyotoTycoon is a lightweight PHP 5.3 library for issuing Http RPC KyotoTycoon
 
 Installation
 --------------------
-1. Download the [`composer.phar`](http://getcomposer.org/composer.phar).
+
+Download the [`composer.phar`](http://getcomposer.org/composer.phar).
 
 ``` sh
 $ curl -s http://getcomposer.org/installer | php
 ```
-2. Run Composer: `php composer.phar install`
+
+Run Composer: `php composer.phar install`
 
 Usage
 --------------------
