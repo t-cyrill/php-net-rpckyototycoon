@@ -1,5 +1,5 @@
 {
-    "name": "Net/RPCKyotoTycoon",
+    "name": "t-cyrill/rpc-kyoto-tycoon",
     "description": "Lightweight RPC KyotoTycoon client",
     "keywords": ["KyotoTycoon"],
     "type": "library",
