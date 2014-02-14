@@ -16,7 +16,7 @@ class Request {
         $this->path = $path;
     }
 
-    public function factory($host, $path)
+    public static function factory($host, $path)
     {
         return new self($host, $path);
     }
